@@ -1,0 +1,182 @@
+{
+  "daily": {
+    "2026-06-17": {
+      "pageviews": 93,
+      "visitors": 1,
+      "paths": {
+        "/admin/news": 10,
+        "/tin-tuc": 8,
+        "/tin-tuc/sap-xep-thon-to-dan-pho-nen-tang-cho-hanh-trinh-moi": 2,
+        "/admin/analytics": 12,
+        "/admin": 3,
+        "/": 23,
+        "/admin/gallery": 1,
+        "/tin-tuc/ha-tinh-cong-bo-danh-muc-dia-ban-uu-dai-dau-tu-cap-xa-nam-2026": 1,
+        "/cuisine/keo-cu-do": 3,
+        "/admin/cuisine": 1,
+        "/cuisine/muc-nhay": 1,
+        "/tourism/thien-cam": 4,
+        "/tin-tuc/mirabo-global-va-doi-tac-nhat-ban-khao-sat-co-hoi-dau-tu-tai-vung-ang": 1,
+        "/admin/reviews": 2,
+        "/shops/cu-do-ba-hanh": 3,
+        "/shops/hai-san-thien-cam": 1,
+        "/admin/subscribers": 4,
+        "/products/buoi-phuc-trach": 2,
+        "/tim-kiem": 4,
+        "/am-thuc/keo-cu-do": 1,
+        "/dac-san/che-huong-son": 1,
+        "/products/nuoc-mam": 1,
+        "/dang-ky-gian-hang": 1,
+        "/cuisine/chao-canh": 1,
+        "/products/mam-ruoc": 1,
+        "/admin/tourism": 1
+      }
+    },
+    "2026-06-18": {
+      "pageviews": 32,
+      "visitors": 1,
+      "paths": {
+        "/admin/subscribers": 3,
+        "/admin/site": 2,
+        "/admin/analytics": 1,
+        "/admin/reviews": 1,
+        "/admin/news": 1,
+        "/admin/gallery": 1,
+        "/admin/shops": 3,
+        "/admin/tourism": 2,
+        "/": 6,
+        "/tin-tuc": 2,
+        "/tourism/thien-cam": 2,
+        "/tourism/ke-go": 3,
+        "/tourism/dong-loc": 1,
+        "/tourism/item-1781513721635": 1,
+        "/admin/products": 1,
+        "/admin/cuisine": 1,
+        "/tourism/hong-linh": 1
+      }
+    },
+    "2026-06-19": {
+      "pageviews": 1,
+      "visitors": 1,
+      "paths": {
+        "/tin-tuc": 1
+      }
+    },
+    "2026-06-20": {
+      "pageviews": 79,
+      "visitors": 1,
+      "paths": {
+        "/admin/cuisine": 4,
+        "/tin-tuc": 6,
+        "/": 21,
+        "/admin/analytics": 2,
+        "/admin/qr": 4,
+        "/admin/ticker": 1,
+        "/admin/tourism": 1,
+        "/admin/shops": 4,
+        "/admin/site": 2,
+        "/shops/cu-do-ba-hanh": 3,
+        "/tourism/thien-cam": 6,
+        "/tourism/ke-go": 1,
+        "/tin-tuc/mirabo-global-va-doi-tac-nhat-ban-khao-sat-co-hoi-dau-tu-tai-vung-ang": 1,
+        "/tin-tuc/triet-pha-duong-day-che-tao-mua-ban-vu-khi-quan-dung-cong-an-ha-tinh": 1,
+        "/bat-dong-san": 7,
+        "/admin/realestate": 5,
+        "/bat-dong-san/bds-001": 2,
+        "/admin/ads": 1,
+        "/admin/subscribers": 2,
+        "/admin/reviews": 2,
+        "/admin/news": 1,
+        "/admin/gallery": 1,
+        "/admin/products": 1
+      }
+    },
+    "2026-06-21": {
+      "pageviews": 6,
+      "visitors": 1,
+      "paths": {
+        "/": 1,
+        "/admin/reviews": 1,
+        "/admin/subscribers": 1,
+        "/admin/analytics": 1,
+        "/admin/ads": 1,
+        "/admin/ticker": 1
+      }
+    },
+    "2026-06-22": {
+      "pageviews": 10,
+      "visitors": 1,
+      "paths": {
+        "/tourism/thien-cam": 2,
+        "/tourism/dong-loc": 2,
+        "/tourism/nguyen-du": 1,
+        "/": 2,
+        "/products/mam-ruoc": 1,
+        "/products/cam-bu": 2
+      }
+    },
+    "2026-06-25": {
+      "pageviews": 2,
+      "visitors": 1,
+      "paths": {
+        "/products/cam-bu": 1,
+        "/": 1
+      }
+    },
+    "2026-06-28": {
+      "pageviews": 62,
+      "visitors": 1,
+      "paths": {
+        "/": 15,
+        "/admin/login": 1,
+        "/admin": 1,
+        "/admin/tourism": 1,
+        "/admin/cuisine": 2,
+        "/admin/products": 2,
+        "/admin/shops": 2,
+        "/admin/realestate": 4,
+        "/admin/gallery": 2,
+        "/bat-dong-san": 2,
+        "/admin/site": 10,
+        "/admin/analytics": 1,
+        "/admin/ads": 2,
+        "/admin/ticker": 2,
+        "/admin/qr": 3,
+        "/admin/subscribers": 1,
+        "/admin/reviews": 1,
+        "/admin/news": 1,
+        "/shops/hai-san-thien-cam": 1,
+        "/van-chuyen": 3,
+        "/van-chuyen/xe-003": 1,
+        "/admin/transport": 3,
+        "/tourism/thien-cam": 1
+      }
+    }
+  },
+  "sessions": {
+    "2026-06-17": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-18": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-19": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-20": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-21": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-22": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-25": [
+      "382v286giakmqi9060o"
+    ],
+    "2026-06-28": [
+      "382v286giakmqi9060o"
+    ]
+  }
+}

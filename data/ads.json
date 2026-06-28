@@ -1,0 +1,95 @@
+{
+  "slots": [
+    {
+      "id": "homepage-top-banner",
+      "name": "Trang chủ — Banner trên (sau StatsBar)",
+      "description": "Vị trí hiển thị sau thanh thống kê, đầu luồng nội dung. Traffic cao nhất, người dùng vừa khám phá trang.",
+      "type": "horizontal",
+      "pages": ["Trang chủ"],
+      "size": "970 × 90 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "homepage-mid-banner",
+      "name": "Trang chủ — Banner giữa (giữa Ẩm Thực & Đặc Sản)",
+      "description": "Giữa luồng nội dung — người dùng đang cuộn xem, chú ý cao.",
+      "type": "horizontal",
+      "pages": ["Trang chủ"],
+      "size": "970 × 90 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "detail-sidebar",
+      "name": "Sidebar — Trang chi tiết Du Lịch & Ẩm Thực",
+      "description": "Hộp quảng cáo sidebar phải trên trang chi tiết. Người dùng đang đọc nội dung chuyên sâu.",
+      "type": "rectangle",
+      "pages": ["Du Lịch chi tiết", "Ẩm Thực chi tiết"],
+      "size": "300 × 250 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "detail-bottom-banner",
+      "name": "Chi tiết — Banner trước phần Đánh giá",
+      "description": "Banner ngang ngay trước phần review — người dùng đã đọc xong nội dung, sẵn sàng tương tác.",
+      "type": "horizontal",
+      "pages": ["Du Lịch chi tiết", "Ẩm Thực chi tiết"],
+      "size": "728 × 90 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "news-top-banner",
+      "name": "Tin Tức — Banner trên grid bài viết",
+      "description": "Hiển thị sau bộ lọc danh mục, ngay trên danh sách bài viết tin tức.",
+      "type": "horizontal",
+      "pages": ["Tin Tức"],
+      "size": "970 × 90 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "bds-sidebar",
+      "name": "Bất Động Sản — Sidebar bộ lọc",
+      "description": "Cuối sidebar bộ lọc BĐS — người dùng đang tìm kiếm mua/thuê nhà đất.",
+      "type": "rectangle",
+      "pages": ["Bất Động Sản"],
+      "size": "300 × 250 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    },
+    {
+      "id": "global-prefooter",
+      "name": "Toàn trang — Banner trước Footer (hiển thị mọi trang)",
+      "description": "Banner lớn cuối trang, hiển thị trên tất cả các trang. Nhận diện thương hiệu mạnh, phủ sóng toàn bộ lượt xem.",
+      "type": "prefooter",
+      "pages": ["Tất cả trang"],
+      "size": "1200 × 160 px",
+      "image": "",
+      "linkUrl": "",
+      "linkTarget": "_blank",
+      "enabled": false,
+      "altText": "Quảng cáo"
+    }
+  ]
+}

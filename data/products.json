@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "id": "buoi-phuc-trach",
+      "name": "Bưởi Phúc Trạch",
+      "category": "Nông sản đặc sản",
+      "description": "Bưởi GI (chỉ dẫn địa lý được bảo hộ) từ huyện Hương Khê — 360 hecta vườn bưởi đặc trưng. Múi đỏ hồng, ngọt thanh tự nhiên, hương thơm dịu. Top 100 đặc sản Việt Nam. Thu hoạch tháng 8–9, sản lượng giới hạn.",
+      "origin": "Xã Hương Trạch, Huyện Hương Khê",
+      "certifications": [
+        "GI Protected",
+        "Top 100 VN",
+        "OCOP ★★★★"
+      ],
+      "image": "/uploads/1781518035729-0e9e9e81ayri.png",
+      "harvestSeason": "Tháng 8 – 9",
+      "unit": "20.000 – 35.000đ/quả",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/buoiPhucTrach-garden-tree/1200/800",
+        "https://picsum.photos/seed/buoiPhucTrach-pink-flesh/1200/800",
+        "https://picsum.photos/seed/buoiPhucTrach-harvest-basket/1200/800"
+      ],
+      "priceRange": "20.000 – 35.000đ/quả · Hộp quà 4 quả: 200.000đ · Hộp quà 8 quả: 380.000đ",
+      "whereToBuy": [
+        "Vườn Bưởi Sáu Quý – Hương Trạch, Hương Khê (tham quan + mua trực tiếp)",
+        "Siêu thị CoopMart Hà Tĩnh – khu OCOP",
+        "Chợ trung tâm Hà Tĩnh – nhiều gian hàng",
+        "Đặt online: các trang thương mại điện tử, ship toàn quốc"
+      ],
+      "story": "Bưởi Phúc Trạch trồng trên vùng đất đồi dốc huyện Hương Khê, nơi có thổ nhưỡng đặc biệt giàu khoáng chất và nguồn nước ngầm tinh khiết từ dãy Trường Sơn. Giống bưởi này đã được trồng hơn 300 năm, từ thời các cụ trong làng nhân giống qua hạt. Năm 2010, Cục Sở hữu trí tuệ cấp chứng nhận Chỉ dẫn địa lý — khẳng định không nơi nào trên thế giới có thể cho ra quả bưởi với hương vị đặc trưng này."
+    },
+    {
+      "id": "cam-bu",
+      "name": "Cam Bù Hương Sơn",
+      "category": "Nông sản đặc sản",
+      "description": "Cam đặc sản vùng núi Hương Sơn — vỏ mỏng óng vàng, nước nhiều ngọt đậm đà đặc trưng. Được trồng trong điều kiện thổ nhưỡng và khí hậu đặc biệt của thượng nguồn sông Ngàn Phố. Quà tặng ý nghĩa dịp Tết.",
+      "origin": "Huyện Hương Sơn, Hà Tĩnh",
+      "certifications": [
+        "OCOP ★★★",
+        "Đặc sản vùng miền"
+      ],
+      "image": "/uploads/1781518142061-1ymg0a211gn.jpg",
+      "harvestSeason": "Tháng 11 – 1",
+      "unit": "25.000 – 40.000đ/kg",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/camBu-orange-tree-garden/1200/800",
+        "https://picsum.photos/seed/camBu-juicy-slice/1200/800",
+        "https://picsum.photos/seed/camBu-gift-box/1200/800"
+      ],
+      "priceRange": "25.000 – 40.000đ/kg · Hộp quà 5kg: 180.000đ",
+      "whereToBuy": [
+        "Các vườn cam tại Sơn Phú, Sơn Thịnh – huyện Hương Sơn",
+        "Chợ Phố Châu – trung tâm Hương Sơn",
+        "Siêu thị Hà Tĩnh · Đặt hàng online ship toàn quốc"
+      ],
+      "story": "Cam Bù Hương Sơn được trồng ở độ cao 200–400m so với mực nước biển, nơi biên độ nhiệt ngày đêm lớn giúp quả tích lũy đường và vitamin C cao. Người dân Hương Sơn trồng cam từ thế kỷ XVII, gắn liền với văn hóa canh tác miền núi. Đặc biệt, cam Bù không thể trồng nơi khác vì phụ thuộc vào nguồn nước ngầm đặc thù của sông Ngàn Phố."
+    },
+    {
+      "id": "nuoc-mam",
+      "name": "Nước Mắm Nhượng Bình",
+      "category": "Gia vị truyền thống",
+      "description": "Nước mắm ủ từ cá cơm biển Hà Tĩnh theo phương pháp cổ truyền 12–18 tháng. Màu vàng nâu sóng sánh, vị mặn ngọt hài hòa, hương thơm đặc trưng của biển miền Trung. Gia vị không thể thiếu trong mọi bếp ăn.",
+      "origin": "Làng Cẩm Nhượng, Huyện Cẩm Xuyên",
+      "certifications": [
+        "OCOP ★★★",
+        "Truyền thống"
+      ],
+      "image": "/uploads/1781518229018-4c018tlbypf.jpg",
+      "harvestSeason": "Quanh năm",
+      "unit": "50.000 – 130.000đ/lít",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/nuocMam-barrel-ferment/1200/800",
+        "https://picsum.photos/seed/nuocMam-golden-bottle/1200/800",
+        "https://picsum.photos/seed/nuocMam-fishing-village/1200/800"
+      ],
+      "priceRange": "50.000 – 130.000đ/lít · Thùng 5L: 350.000đ · Hộp quà 2 chai: 200.000đ",
+      "whereToBuy": [
+        "Cơ sở Nước Mắm Khả – Cẩm Nhượng, Cẩm Xuyên (xưởng sản xuất truyền thống)",
+        "Siêu thị CoopMart · Vinmart tại Hà Tĩnh",
+        "Chợ trung tâm Hà Tĩnh · Đặt online ship toàn quốc"
+      ],
+      "story": "Nghề làm nước mắm Cẩm Nhượng có lịch sử hơn 200 năm, truyền từ đời này sang đời khác. Cá cơm được đánh bắt vào mùa xuân-hè, ủ trong các chum sành lớn với muối biển theo tỷ lệ bí truyền. Sau 12–18 tháng lên men tự nhiên, từng giọt nước mắm nhĩ đầu tiên được chắt lọc — đây là loại nước mắm quý nhất, có độ đạm cao nhất."
+    },
+    {
+      "id": "che-huong-son",
+      "name": "Chè Hương Sơn",
+      "category": "Đồ uống đặc sản",
+      "description": "Chè xanh búp tươi trồng trên đồi cao vùng Hương Sơn — hái thủ công từng búp một. Nước trong xanh mát, vị chát nhẹ, hậu ngọt thanh. Truyền thống uống kèm kẹo cu đơ là văn hóa đặc sắc không thể thiếu của xứ Nghệ.",
+      "origin": "Huyện Hương Sơn, Hà Tĩnh",
+      "certifications": [
+        "OCOP ★★★",
+        "Đặc sản vùng miền"
+      ],
+      "image": "/uploads/1781518294634-3bo1iwx6yfy.jpg",
+      "harvestSeason": "Quanh năm",
+      "unit": "80.000 – 220.000đ/kg",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/cheXanh-tea-plantation/1200/800",
+        "https://picsum.photos/seed/cheXanh-picking-leaves/1200/800",
+        "https://picsum.photos/seed/cheXanh-brewing-cup/1200/800"
+      ],
+      "priceRange": "80.000 – 220.000đ/kg · Hộp thiếc 100g: 80.000đ · Hộp gỗ quà tặng: 180.000đ",
+      "whereToBuy": [
+        "Cơ sở Chè Thanh Hà – Phố Châu, Hương Sơn (sản xuất tại vườn)",
+        "Chợ Phố Châu Hương Sơn – nhiều gian hàng",
+        "Siêu thị Hà Tĩnh · Đặt online ship toàn quốc"
+      ],
+      "story": "Cây chè Hương Sơn được đưa vào trồng từ đầu thế kỷ XX, gắn với lịch sử khai hoang vùng đất đỏ bazan. Đồi chè lâu năm nhất tại đây đã hơn 60 tuổi, rễ ăn sâu xuống lòng đất hút khoáng chất tự nhiên. Người dân hái chè theo chu kỳ 15 ngày, chỉ chọn 1 búp 2 lá non — đảm bảo hương vị tinh khiết nhất."
+    },
+    {
+      "id": "ruou-hong-linh",
+      "name": "Rượu Hồng Lĩnh",
+      "category": "Đồ uống truyền thống",
+      "description": "Rượu gạo nếp ủ theo bí quyết gia truyền vùng Hồng Lĩnh — trong vắt như pha lê, thơm nồng, vị êm dịu sâu lắng. Sản phẩm lưu niệm mang đậm hồn văn hóa Hà Tĩnh. Sử dụng trong các dịp lễ tết, cúng giỗ.",
+      "origin": "Huyện Hồng Lĩnh, Hà Tĩnh",
+      "certifications": [
+        "OCOP ★★★",
+        "Truyền thống"
+      ],
+      "image": "/uploads/1781518370774-5v9e8cebpve.webp",
+      "harvestSeason": "Quanh năm",
+      "unit": "60.000 – 180.000đ/chai",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/ruouHongLinh-bottle-clear/1200/800",
+        "https://picsum.photos/seed/ruouHongLinh-rice-ferment/1200/800",
+        "https://picsum.photos/seed/ruouHongLinh-gift-ceramic/1200/800"
+      ],
+      "priceRange": "60.000 – 180.000đ/chai 500ml · Bình gốm quà tặng: 250.000đ",
+      "whereToBuy": [
+        "Cơ sở rượu truyền thống huyện Hồng Lĩnh",
+        "Chợ trung tâm Hà Tĩnh – khu đặc sản",
+        "Siêu thị CoopMart Hà Tĩnh · Cửa hàng OCOP tỉnh"
+      ],
+      "story": "Rượu Hồng Lĩnh được nấu từ gạo nếp cái hoa vàng trồng tại chân núi Hồng Lĩnh. Men rượu được làm từ thảo mộc rừng Hồng Lĩnh theo bí quyết gia truyền. Nước nấu rượu lấy từ mạch ngầm chân núi — trong vắt, ngọt lành. Quá trình ủ kéo dài 3–6 tháng trong hầm đất để rượu chín đều và êm dịu."
+    },
+    {
+      "id": "mam-ruoc",
+      "name": "Mắm Ruốc Hà Tĩnh",
+      "category": "Gia vị đặc sản",
+      "description": "Mắm ruốc (mắm tép) ủ từ tép biển tươi vùng bờ biển Hà Tĩnh — gia vị linh hồn trong các món ăn truyền thống như bún bò, rau muống xào. Màu đỏ tươi, mùi thơm đặc trưng, vị đậm đà không nơi nào sánh được.",
+      "origin": "Các huyện ven biển Hà Tĩnh",
+      "certifications": [
+        "Truyền thống",
+        "Đặc sản địa phương"
+      ],
+      "image": "/uploads/1781518419876-gb6hyj9090g.jpg",
+      "harvestSeason": "Quanh năm",
+      "unit": "40.000 – 90.000đ/hũ",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/mamRuoc-red-paste/1200/800",
+        "https://picsum.photos/seed/mamRuoc-shrimp-fresh/1200/800",
+        "https://picsum.photos/seed/mamRuoc-jar-traditional/1200/800"
+      ],
+      "priceRange": "40.000 – 90.000đ/hũ 200g · Hũ lớn 500g: 150.000đ",
+      "whereToBuy": [
+        "Chợ trung tâm Hà Tĩnh – nhiều gian hàng mắm tươi",
+        "Các làng ven biển Cẩm Xuyên, Thạch Hà – mua trực tiếp",
+        "Siêu thị Hà Tĩnh · Đặt online"
+      ],
+      "story": "Nghề làm mắm ruốc tại các làng ven biển Hà Tĩnh có từ hàng trăm năm. Tép biển (ruốc) được đánh bắt vào buổi sớm, ngay lập tức ướp muối và giã nhuyễn. Quá trình lên men tự nhiên từ 1–3 tháng tạo ra mắm ruốc với màu sắc đặc trưng và hương vị không thể làm giả. Đây là gia vị bản sắc của người Hà Tĩnh — thiếu nó, bữa ăn mất đi một nửa hương vị quê hương."
+    }
+  ]
+}

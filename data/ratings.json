@@ -1,0 +1,26 @@
+{
+  "news-001": {
+    "total": 42,
+    "count": 9
+  },
+  "news-002": {
+    "total": 38,
+    "count": 8
+  },
+  "news-003": {
+    "total": 31,
+    "count": 7
+  },
+  "news-004": {
+    "total": 47,
+    "count": 10
+  },
+  "news-005": {
+    "total": 49,
+    "count": 10
+  },
+  "news-006": {
+    "total": 35,
+    "count": 8
+  }
+}

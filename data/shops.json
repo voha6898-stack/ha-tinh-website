@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "id": "cu-do-ba-hanh",
+      "name": "Cơ Sở Kẹo Cu Đơ ",
+      "category": "Đặc sản",
+      "description": "Cơ sở sản xuất kẹo cu đơ gia truyền nổi tiếng nhất tại Hà Tĩnh. Làm thủ công từ mật mía nguyên chất, lạc rang giòn và gừng tươi. Sản phẩm được đóng gói đẹp làm quà tặng. Đã nhận chứng nhận OCOP 4 sao.",
+      "address": "Phường Đại Nai, TP Hà Tĩnh (gần Cầu Phủ)",
+      "phone": "0239 3852 001",
+      "hours": "7:00 – 20:00 hàng ngày",
+      "priceRange": "20.000 – 80.000đ/gói · Hộp quà: 120.000–250.000đ",
+      "image": "https://picsum.photos/seed/cuDo-shop-production/800/600",
+      "specialty": "Kẹo Cu Đơ OCOP ★★★★",
+      "rating": 4.9,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/cuDo-making-traditional/800/600",
+        "https://picsum.photos/seed/cuDo-packing-gift/800/600",
+        "https://picsum.photos/seed/cuDo-shop-interior/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=Keo+Cu+Do+Ba+Hanh+Ha+Tinh+Vietnam",
+      "zaloPhone": "0239 3852 001",
+      "menu": [
+        "Kẹo Cu Đơ gừng tươi (đặc biệt) – 25.000đ/gói",
+        "Kẹo Cu Đơ lạc rang – 20.000đ/gói",
+        "Hộp quà 500g OCOP – 150.000đ",
+        "Hộp quà cao cấp 1kg – 250.000đ",
+        "Combo kẹo + chè Hương Sơn – 180.000đ"
+      ]
+    },
+    {
+      "id": "hai-san-thien-cam",
+      "name": "Nhà Hàng Hải Sản Bờ Biển Thiên Cầm",
+      "category": "Ẩm thực",
+      "description": "Nhà hàng hải sản tươi sống nằm ngay bờ biển Thiên Cầm, view biển trực tiếp. Nổi tiếng với mực nướng sa tế, tôm hùm nướng muối ớt, ghẹ rang muối và các món hải sản miền Trung đặc trưng. Có phòng lạnh và sân vườn.",
+      "address": "Bờ biển Thiên Cầm, Huyện Cẩm Xuyên, Hà Tĩnh",
+      "phone": "",
+      "hours": "10:00 – 22:00 hàng ngày",
+      "priceRange": "",
+      "image": "https://picsum.photos/seed/thienCam-seafood-restaurant/800/600",
+      "specialty": "Mực nướng, Tôm hùm, Ghẹ rang",
+      "rating": 4.7,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/thienCam-seafood-grilled/800/600",
+        "https://picsum.photos/seed/thienCam-ocean-view-dining/800/600",
+        "https://picsum.photos/seed/thienCam-fresh-fish-tank/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=Thien+Cam+Seafood+Restaurant+Ha+Tinh",
+      "zaloPhone": "0239 3862 999",
+      "menu": [
+        "Mực nướng sa tế – 180.000đ/kg",
+        "Tôm hùm nướng – theo giá thị trường",
+        "Ghẹ rang muối – 250.000đ/kg",
+        "Cua biển hấp gừng – 220.000đ/kg",
+        "Cá nướng mọi – 150.000đ/con",
+        "Lẩu hải sản – 350.000đ/nồi"
+      ]
+    },
+    {
+      "id": "vuon-buoi-sau-quy",
+      "name": "Vườn Bưởi Phúc Trạch ",
+      "category": "Nông sản",
+      "description": "Vườn bưởi Phúc Trạch rộng 5 mẫu canh tác theo tiêu chuẩn VietGAP, đạt chứng nhận GI (chỉ dẫn địa lý). Có thể tham quan vườn, hái bưởi tươi. Bưởi được đóng hộp quà tặng cao cấp, ship toàn quốc.",
+      "address": "Xã Hương Trạch, Huyện Hương Khê, Hà Tĩnh",
+      "phone": "",
+      "hours": "7:00 – 17:00 (mùa bưởi tháng 8-9)",
+      "priceRange": "20.000 – 35.000đ/quả · 500.000đ/hộp quà",
+      "image": "https://picsum.photos/seed/buoiVuon-garden-harvest/800/600",
+      "specialty": "Bưởi Phúc Trạch GI tươi & quà tặng",
+      "rating": 4.8,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/buoiVuon-orchard-view/800/600",
+        "https://picsum.photos/seed/buoiVuon-picking-fruit/800/600",
+        "https://picsum.photos/seed/buoiVuon-gift-box/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=Vuon+Buoi+Phuc+Trach+Huong+Khe+Ha+Tinh",
+      "zaloPhone": "0393 654 321",
+      "menu": [
+        "Bưởi tươi loại 1 – 35.000đ/quả",
+        "Bưởi tươi loại 2 – 25.000đ/quả",
+        "Hộp quà 4 quả – 200.000đ",
+        "Hộp quà cao cấp 8 quả – 400.000đ",
+        "Tour tham quan vườn + hái bưởi – 50.000đ/người"
+      ]
+    },
+    {
+      "id": "quan-chao-canh-co-ba",
+      "name": "Quán Cháo Canh",
+      "category": "Ẩm thực",
+      "description": "Quán ăn sáng nổi tiếng nhất trung tâm TP Hà Tĩnh, mở từ năm 1985. Cháo canh cá tươi, bánh mướt chả viên giòn, bún bò Hà Tĩnh — phục vụ từ 5 giờ sáng cho đến hết hàng (thường 9:30 sáng). Luôn có hàng dài chờ đợi.",
+      "address": "45 Đường Phan Đình Phùng, TP Hà Tĩnh",
+      "phone": "",
+      "hours": "5:00 – 10:00 (nghỉ trưa)",
+      "priceRange": "20.000 – 45.000đ/bát",
+      "image": "https://picsum.photos/seed/chaoCanhCoBa-morning-food/800/600",
+      "specialty": "Cháo canh cá, Bánh mướt chả",
+      "rating": 4.8,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/chaoCanhCoBa-busy-morning/800/600",
+        "https://picsum.photos/seed/chaoCanhCoBa-bowl-hot/800/600",
+        "https://picsum.photos/seed/chaoCanhCoBa-street-food/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=45+Phan+Dinh+Phung+Ha+Tinh+Vietnam",
+      "zaloPhone": "0912 345 678",
+      "menu": [
+        "Cháo canh cá tươi – 25.000đ/bát",
+        "Cháo canh thịt – 30.000đ/bát",
+        "Bánh mướt chả viên – 20.000đ/suất",
+        "Bún bò Hà Tĩnh – 35.000đ/tô",
+        "Combo sáng (cháo + bánh) – 40.000đ"
+      ]
+    },
+    {
+      "id": "che-huong-son-thanh-ha",
+      "name": "Cơ Sở Chè Hương Sơn ",
+      "category": "Đồ uống",
+      "description": "Chuyên cung cấp chè xanh Hương Sơn thu hái thủ công từ đồi chè 25 năm tuổi. Sản phẩm đạt OCOP 3 sao, được đóng gói hộp thiếc, hộp gỗ làm quà tặng. Có thể đặt theo yêu cầu, ship toàn quốc.",
+      "address": "Thị trấn Phố Châu, Huyện Hương Sơn, Hà Tĩnh",
+      "phone": "",
+      "hours": "7:30 – 17:30 (thứ 2 – thứ 7)",
+      "priceRange": "80.000 – 250.000đ/hộp",
+      "image": "https://picsum.photos/seed/cheHuongSon-tea-shop/800/600",
+      "specialty": "Chè xanh OCOP ★★★ – Hộp quà tặng",
+      "rating": 4.6,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/cheHuongSon-tea-hills/800/600",
+        "https://picsum.photos/seed/cheHuongSon-processing/800/600",
+        "https://picsum.photos/seed/cheHuongSon-package-gift/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=Pho+Chau+Huong+Son+Ha+Tinh+Vietnam",
+      "zaloPhone": "0236 3812 456",
+      "menu": [
+        "Chè búp tươi loại đặc biệt – 220.000đ/kg",
+        "Chè xanh thường – 80.000đ/100g",
+        "Hộp thiếc 100g – 80.000đ",
+        "Hộp gỗ quà tặng 200g – 180.000đ",
+        "Combo chè + kẹo cu đơ – 220.000đ"
+      ]
+    },
+    {
+      "id": "nuoc-mam-kha",
+      "name": "Cơ Sở Nước Mắm – Cẩm Nhượng",
+      "category": "Đặc sản",
+      "description": "Nước mắm cá cơm ủ truyền thống 18 tháng tại làng biển Cẩm Nhượng — bí quyết gia truyền 3 đời. Màu vàng nâu óng ánh, vị mặn ngọt hài hòa, hương biển đặc trưng. Cung cấp cho nhiều nhà hàng, khách sạn Hà Tĩnh.",
+      "address": "Xã Cẩm Nhượng, Huyện Cẩm Xuyên, Hà Tĩnh",
+      "phone": "",
+      "hours": "8:00 – 17:30",
+      "priceRange": "55.000 – 160.000đ/lít · 400.000đ/thùng 5L",
+      "image": "https://picsum.photos/seed/nuocMam-camNhuong-traditional/800/600",
+      "specialty": "Nước mắm nhĩ thượng hạng 43°",
+      "rating": 4.7,
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/nuocMam-barrel-village/800/600",
+        "https://picsum.photos/seed/nuocMam-bottle-amber/800/600",
+        "https://picsum.photos/seed/nuocMam-fishing-coast/800/600"
+      ],
+      "mapLink": "https://maps.google.com/?q=Cam+Nhuong+Village+Cam+Xuyen+Ha+Tinh+Vietnam",
+      "zaloPhone": "0239 3823 168",
+      "menu": [
+        "Nước mắm nhĩ thượng hạng 43° – 160.000đ/lít",
+        "Nước mắm nhĩ 40° – 100.000đ/lít",
+        "Nước mắm thường 35° – 55.000đ/lít",
+        "Thùng 5L – 400.000đ",
+        "Hộp quà 2 chai 500ml – 200.000đ"
+      ]
+    }
+  ]
+}

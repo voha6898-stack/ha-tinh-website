@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "id": "thien-cam",
+      "name": "Bãi Biển Thiên Cầm",
+      "location": "xã Thiên Cẩm — cách TP Hà Tĩnh 20km",
+      "description": "Bãi biển dài gần 3km trải dài từ chân núi Thiên Cầm đến núi Đầu Voi. Nước biển trong xanh ngọc bích, cát trắng mịn, bóng dừa rì rào — điểm nghỉ dưỡng biển hàng đầu của Hà Tĩnh. Tên gọi 'Thiên Cầm' (đàn trời) xuất phát từ âm thanh sóng biển vỗ vào vách đá nghe như tiếng đàn thiên nhiên huyền bí. Bãi biển còn có hồ tắm nước ngọt tự nhiên, khu leo núi và hang động độc đáo.",
+      "highlight": "Biển xanh cát trắng dừa nghiêng",
+      "image": "/uploads/1781512162505-81zlo5vep4i.jpg",
+      "tag": "Bãi Biển",
+      "tagColor": "sky",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796012315-z0urvyebl6.jpg",
+        "/uploads/1781796012360-5a0k7v0qi0f.jpg",
+        "/uploads/1781796012399-rgyv10d949.jpg",
+        "/uploads/1781796021801-5r91pf7eiai.jpg"
+      ],
+      "openHours": "Mở cửa 24/7 (khu vực bãi tắm: 6:00 – 20:00)",
+      "ticketPrice": "Miễn phí (bãi tắm công cộng) · Khu resort riêng tính phí",
+      "bestTime": "Tháng 4 – 8 (nước trong, sóng êm, nắng đẹp)",
+      "tips": [
+        "Đến sớm từ 5:30 – 7:30 để đón bình minh và cảnh đánh cá của ngư dân",
+        "Ăn hải sản tươi tại các quán ven biển, giá rẻ hơn nhà hàng 30–50%",
+        "Tránh tháng 9–11 do bão và sóng lớn",
+        "Mang theo kem chống nắng SPF 50+ vì nắng biển miền Trung rất gắt"
+      ],
+      "mapLink": "https://maps.google.com/?q=Thien+Cam+Beach+Cam+Xuyen+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "ke-go",
+      "name": "Hồ Kẻ Gỗ",
+      "location": "Cẩm Xuyên & Hương Khê — 45km từ TP Hà Tĩnh",
+      "description": "Hồ nhân tạo rộng hơn 30km², dài 29km, sâu tới 37m. Vùng sinh thái quý giá với voọc chân đỏ, vượn đen, đàn voi và rừng nguyên sinh bao phủ — lý tưởng cho du lịch sinh thái, chèo thuyền và ngắm cảnh. Hồ Kẻ Gỗ được xây dựng từ năm 1976–1980, là công trình thủy lợi lớn nhất Hà Tĩnh. Khu bảo tồn thiên nhiên Kẻ Gỗ rộng 21.720 ha là ngôi nhà của hơn 200 loài chim và 55 loài thú.",
+      "highlight": "Thiên đường sinh thái rừng núi",
+      "image": "/uploads/1781511742175-1ndr16hpbpx.jpg",
+      "tag": "Thiên Nhiên",
+      "tagColor": "green",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796077457-hmnm7nmqzr4.jpg",
+        "/uploads/1781796104547-fz1oe1rdcpp.jpg",
+        "/uploads/1781796104587-tx76carvp8q.jpg"
+      ],
+      "openHours": "6:00 – 18:00 hàng ngày",
+      "ticketPrice": "Vé thuyền: 50.000–200.000đ/người tùy tour",
+      "bestTime": "Tháng 11 – 4 (ít mưa, nước hồ đẹp, dễ quan sát động vật)",
+      "tips": [
+        "Đặt tour thuyền sinh thái qua Ban quản lý khu bảo tồn để đảm bảo an toàn",
+        "Mang theo ống nhòm để quan sát chim thú từ xa",
+        "Không gây tiếng ồn lớn trong khu bảo tồn để tránh làm động vật hoang dã",
+        "Kết hợp với tham quan đập tràn và bãi cắm trại ven hồ"
+      ],
+      "mapLink": "https://maps.google.com/?q=Ho+Ke+Go+Cam+Xuyen+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "dong-loc",
+      "name": "Ngã Ba Đồng Lộc",
+      "location": "Huyện Can Lộc — 20km từ TP Hà Tĩnh",
+      "description": "Khu di tích lịch sử thiêng liêng — nơi 10 nữ thanh niên xung phong tuổi 17–22 anh dũng hi sinh ngày 24/7/1968. Di tích Quốc gia Đặc biệt từ năm 2013, hàng năm đón hàng trăm nghìn du khách về thắp hương tri ân. Ngã Ba Đồng Lộc là nút giao thông trọng yếu trên đường Trường Sơn, đã hứng chịu hơn 48.600 quả bom trong 240 ngày. 10 cô gái của Tiểu đội 4, Đại đội 552 đã hy sinh khi đang san lấp hố bom.",
+      "highlight": "Địa linh — hồn thiêng dân tộc",
+      "image": "/uploads/1781511970401-sjs5xlxg6us.jpg",
+      "tag": "Lịch Sử",
+      "tagColor": "red",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796133249-q2xah3jow4.jpg",
+        "/uploads/1781796156870-nk69cvrokxk.jpg",
+        "/uploads/1781796156917-5rj1e5chlj4.jpg"
+      ],
+      "openHours": "7:00 – 17:30 hàng ngày (không nghỉ lễ)",
+      "ticketPrice": "Miễn phí vào cửa · Hướng dẫn viên: 100.000đ/đoàn",
+      "bestTime": "Quanh năm (đặc biệt 27/7 Ngày Thương binh Liệt sĩ)",
+      "tips": [
+        "Ăn mặc lịch sự, nghiêm trang khi vào khu di tích",
+        "Mua hoa, nhang tại quầy lưu niệm để thắp hương tưởng niệm",
+        "Thuê hướng dẫn viên địa phương để nghe kể chuyện lịch sử sâu sắc hơn",
+        "Kết hợp tham quan Bảo tàng TNXP và xem phim tư liệu tại chỗ"
+      ],
+      "mapLink": "https://maps.google.com/?q=Nga+Ba+Dong+Loc+Can+Loc+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "nguyen-du",
+      "name": "Khu Lưu Niệm Nguyễn Du",
+      "location": "Xã Tiên Điền, Huyện Nghi Xuân — 56km từ TP",
+      "description": "Quê hương và nơi an nghỉ của Đại thi hào Nguyễn Du (1765–1820) — tác giả Truyện Kiều bất hủ. Khu di tích rộng 28.562m² với đền thờ, bảo tàng gần 1.000 hiện vật, mộ phần và vườn thơ. Di tích Quốc gia Đặc biệt 2012. Làng Tiên Điền xưa kia nổi tiếng là đất văn học, khoa bảng — dòng họ Nguyễn Tiên Điền sản sinh nhiều nhân tài.",
+      "highlight": "Cội nguồn văn học Việt Nam",
+      "image": "/uploads/1781512099682-d73thxsa2au.jpg",
+      "tag": "Văn Hóa",
+      "tagColor": "amber",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796298132-dhh6ecphbst.jpg",
+        "/uploads/1781796298183-znuaxpam63.webp",
+        "/uploads/1781796298229-hb1jaek7ap8.jpg",
+        "/uploads/1781796461998-yp7vm2pivy.jpg"
+      ],
+      "openHours": "7:30 – 17:00 hàng ngày",
+      "ticketPrice": "20.000đ/người lớn · 10.000đ/học sinh sinh viên",
+      "bestTime": "Quanh năm (lễ hội Nguyễn Du: 10/8 âm lịch)",
+      "tips": [
+        "Đọc qua Truyện Kiều trước chuyến thăm để cảm nhận sâu hơn",
+        "Tham quan kết hợp thăm làng nghề truyền thống Tiên Điền",
+        "Mua sách Truyện Kiều và tranh lụa làm quà lưu niệm tại cửa hàng",
+        "Ghé thăm đình làng Tiên Điền và nhà thờ họ Nguyễn lân cận"
+      ],
+      "mapLink": "https://maps.google.com/?q=Nguyen+Du+Memorial+Nghi+Xuan+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "hong-linh",
+      "name": "Núi Hồng – Sông Lam",
+      "location": "Hồng Lĩnh, Nghi Xuân — 60km từ TP Hà Tĩnh",
+      "description": "Dãy Hồng Lĩnh 99 ngọn trập trùng soi bóng xuống sông Lam hiền hòa — biểu tượng bất tử của xứ Nghệ Tĩnh. Nguồn cảm hứng vô tận cho thơ ca, hội họa qua bao thế kỷ. Trên đỉnh có chùa Hương Tích (còn gọi là chùa Thiên Thai) được xây dựng từ thế kỷ XV. Từ đỉnh núi có thể nhìn thấy toàn cảnh đồng bằng Hà Tĩnh, sông Lam và biển Đông.",
+      "highlight": "Biểu tượng muôn đời xứ Nghệ Tĩnh",
+      "image": "/uploads/1781512050039-ji10abhq5y.webp",
+      "tag": "Danh Lam",
+      "tagColor": "purple",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796453955-61vjm0ffbb7.jpg",
+        "/uploads/1781796454031-56a9e0mxcll.jpg"
+      ],
+      "openHours": "Tự do (chùa Hương Tích: 6:00 – 18:00)",
+      "ticketPrice": "Miễn phí leo núi · Chùa: công đức tùy tâm",
+      "bestTime": "Tháng 10 – 3 (mát mẻ, không khí trong lành, mây mù đẹp)",
+      "tips": [
+        "Mang giày thể thao đế bám tốt vì đường lên khá dốc và có đá trơn",
+        "Khởi hành sớm (5:30–6:00) để leo núi khi trời mát và đón bình minh",
+        "Đường lên chùa Hương Tích mất khoảng 2–3 giờ đi bộ, mang theo nước uống",
+        "Tham quan kết hợp chụp ảnh sông Lam từ trên cao — view cực đẹp"
+      ],
+      "mapLink": "https://maps.google.com/?q=Hong+Linh+Mountain+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "xuan-thanh",
+      "name": "Bãi Biển Xuân Thành",
+      "location": "(Huyện Nghi Xuân cũ) — 60km từ TP Hà Tĩnh",
+      "description": "Bãi biển hoang sơ ít người biết với hàng phi lao cổ thụ chạy dọc bờ cát vàng. Sóng êm, nước trong, không khí trong lành hoàn toàn chưa bị thương mại hóa — thiên đường cho những tâm hồn tìm sự yên tĩnh. Bãi biển Xuân Thành dài khoảng 4km, nằm cạnh cửa Sót — nơi sông Nghèn đổ ra biển. Buổi sáng có thể xem ngư dân kéo lưới và mua hải sản tươi trực tiếp.",
+      "highlight": "Bãi biển hoang sơ chưa khai thác",
+      "image": "/uploads/1781511827631-zklw78erbg.jpg",
+      "tag": "Bãi Biển",
+      "tagColor": "sky",
+      "visible": true,
+      "gallery": [
+        "/uploads/1781796560508-sh46ns6kxql.jpg",
+        "/uploads/1781796560567-dk4ue4wk1r9.jpg",
+        "/uploads/1781796560623-mi1t2xc6rn.jpg"
+      ],
+      "openHours": "Mở cửa 24/7 (bãi biển tự nhiên)",
+      "ticketPrice": "Miễn phí hoàn toàn",
+      "bestTime": "Tháng 5 – 8 (nước trong vắt, sóng nhỏ, ít gió)",
+      "tips": [
+        "Không có dịch vụ lưu trú trực tiếp tại bãi, đặt khách sạn tại Nghi Xuân hoặc Hà Tĩnh",
+        "Mang đồ ăn và nước uống vì ít quán xá ven biển",
+        "Ghé cửa hàng hải sản địa phương gần cửa Sót mua tôm, cua tươi rất rẻ",
+        "Kết hợp tham quan đền Hoàng Mười tại Xuân Hồng gần đó"
+      ],
+      "mapLink": "https://maps.google.com/?q=Xuan+Thanh+Beach+Nghi+Xuan+Ha+Tinh+Vietnam"
+    },
+    {
+      "id": "item-1781513721635",
+      "visible": true,
+      "name": "Chùa Hương Tích",
+      "location": "(huyện Can Lộc cũ) tỉnh Hà Tĩnh",
+      "image": "/uploads/1781513799832-qnzsfvpa7t.jpeg",
+      "tag": "Văn Hóa",
+      "description": "Chùa Hương Tích – Hoan Châu Đệ Nhất Danh Thắng\nVị trí: Chùa Hương Tích (tên chữ: Hương Tích Cổ Tự, tên dân gian: chùa Thơm) tọa lạc tại đỉnh Hương Tích, dãy núi Hồng Lĩnh, xã Thiên Lộc, huyện Can Lộc, tỉnh Hà Tĩnh — ở độ cao 650m so với mực nước biển. \nLịch sử: Chùa có lịch sử từ thời nhà Trần, được tu sửa qua các triều đại. Năm 1885, chùa bị hỏa hoạn; đến năm 1901, Tổng đốc An Tĩnh Đào Tấn kêu gọi nhân dân xây dựng lại, phục dựng gần như hoàn toàn các công trình cũ. VinWonders\nTín ngưỡng & sự tích: Chùa thờ Quan Âm Bồ Tát theo phái Phật Giáo Bắc Tông, gắn với sự tích Thần Hổ che chở công chúa Diệu Thiện đến núi Hồng Lĩnh dựng am tu hành. \nQuần thể di tích: Khu quần thể bao gồm: Bảo Tháp, Thượng Điện, đền Trang Vương, động Quán Âm, động Tiên Nữ, am Phun Mây, miếu Cô, suối Tiên Tắm, khe Quỷ Khóc. Tapchinghiencuuphathoc\nCảnh quan: Cảnh đẹp được ví như \"Đà Lạt thu nhỏ\" với rừng cây nguyên sinh và những đồi thông hai bên đường lên chùa, khí hậu trong lành mát mẻ. Dulichhatinh\nDanh hiệu: Chùa Hương Tích được ca ngợi là \"Hoan Châu đệ nhất danh thắng\" — ngôi chùa đứng đầu 21 danh lam thắng cảnh vùng Nghệ Tĩnh",
+      "highlight": "Chùa Hương Tích – cổ tự thời Trần trên đỉnh núi Hồng Lĩnh cao 650m, thờ Quan Âm Bồ Tát, gắn với huyền tích công chúa Diệu Thiện, cảnh sắc như \"Đà Lạt thu nhỏ\", được mệnh danh \"Hoan Châu đệ nhất danh thắng\".",
+      "gallery": [
+        "/uploads/1781796584249-btuc6kdwohp.jpg",
+        "/uploads/1781796753213-7lwqxlbjtba.jpg",
+        "/uploads/1781796753259-ynfu4u2hox.jpeg",
+        "/uploads/1781796753301-621lwm5ws2t.jpg",
+        "/uploads/1781796753329-rqvnwqqy4l.jpg",
+        "/uploads/1781796753392-yfnitgk7549.jpeg",
+        "/uploads/1781796753421-4ve6l90lxjn.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --vn-red: #9B2226;
+  --vn-red-mid: #C62828;
+  --vn-gold: #D4A017;
+  --vn-gold-light: #F0C040;
+  --forest-deep: #1B4332;
+  --forest: #1B5E20;
+  --ocean: #01579B;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-be-vietnam), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #0f172a;
+  background-color: var(--ht-bg, #ffffff);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f1f5f9; }
+::-webkit-scrollbar-thumb { background: var(--ht-primary, #1B5E20); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--ht-primary-dark, #145214); }
+
+::selection { background: var(--ht-accent, #D4A017); color: #000; }
+
+/* Page backgrounds inherit from theme */
+.min-h-screen,
+main { background-color: var(--ht-bg, #ffffff); }
+
+/* ─── Image protection ───────────────────────────────────────────────────── */
+img {
+  /* Block drag-to-desktop on all images */
+  -webkit-user-drag: none;
+  user-drag: none;
+  /* Pointer events still work (hover, click) */
+}
+
+/* Copyright overlay on hover — subtle deterrent for image grabbing */
+.img-protected {
+  position: relative;
+  display: inline-block;
+}
+.img-protected::after {
+  content: '© Hà Tĩnh Có Gì?';
+  position: absolute;
+  bottom: 6px;
+  right: 8px;
+  font-size: 10px;
+  font-weight: 600;
+  color: rgba(255,255,255,0.75);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+  pointer-events: none;
+  letter-spacing: 0.03em;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.img-protected:hover::after {
+  opacity: 1;
+}
+
+/* ─── Wave pattern SVG background for ocean sections ─────────────────────── */
+.wave-bg {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,120 L0,120 Z' fill='%2301579B' opacity='0.04'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  background-size: 600px 60px;
+  background-position: bottom;
+}
+
+/* Vietnamese pattern overlay */
+.vn-pattern {
+  background-image:
+    radial-gradient(circle at 25% 25%, rgba(212,160,23,0.03) 0%, transparent 50%),
+    radial-gradient(circle at 75% 75%, rgba(155,34,38,0.03) 0%, transparent 50%);
+}
+
+/* Section reveal animation */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Gold accent line */
+.gold-line::before {
+  content: '';
+  display: block;
+  width: 48px;
+  height: 3px;
+  background: linear-gradient(90deg, #D4A017, #F0C040);
+  border-radius: 2px;
+  margin-bottom: 16px;
+}
+
+/* Atmospheric quote */
+.atmosphere-text {
+  text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+}
+
+/* Card hover depth effect */
+.card-depth {
+  transition: all 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.card-depth:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.12);
+}
+
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}

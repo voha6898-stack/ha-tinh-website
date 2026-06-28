@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "gallery-1",
+      "src": "/uploads/1781540514628-wfwcnkmeix.jpg",
+      "alt": "Rừng Kẻ Gỗ",
+      "caption": "Hồ Kẻ Gỗ xanh mát",
+      "visible": true
+    },
+    {
+      "id": "gallery-2",
+      "src": "/uploads/1781540235706-hqv7lvnkdt5.jpg",
+      "alt": "Núi Hồng Lĩnh",
+      "caption": "Chùa Hương Tích",
+      "visible": true
+    },
+    {
+      "id": "gallery-3",
+      "src": "/uploads/1781540238995-9ddrda69tlm.jpg",
+      "alt": "Biển xanh",
+      "caption": "Biển Thiên Cầm",
+      "visible": true
+    },
+    {
+      "id": "gallery-4",
+      "src": "/uploads/1781540243578-x1nv4qi5lp.jpeg",
+      "alt": "Văn hóa Hà Tĩnh",
+      "caption": "Chùa Hương Tích",
+      "visible": true
+    },
+    {
+      "id": "gallery-5",
+      "src": "/uploads/1781540248133-h7cjolpql9o.jpg",
+      "alt": "Văn hóa Hà Tĩnh",
+      "caption": "Di sản văn hóa ngàn năm",
+      "visible": true
+    },
+    {
+      "id": "gallery-6",
+      "src": "/uploads/1781540251538-njfqke9hhap.jpg",
+      "alt": "Hoàng hôn Hà Tĩnh",
+      "caption": "Hồ Kẻ Gỗ",
+      "visible": true
+    },
+    {
+      "id": "gallery-0om74ni",
+      "src": "/uploads/1781540261501-yycf6rvo7ej.jpg",
+      "alt": "ho-ke-go-9057-1715072242",
+      "caption": "Hồ Kẻ Gỗ",
+      "visible": true
+    },
+    {
+      "id": "gallery-nqmfamz",
+      "src": "/uploads/1781540267333-7f5uehoblso.jpg",
+      "alt": "ho-ke-go-ha-tinh",
+      "caption": "Hồ Kẻ Gỗ",
+      "visible": true
+    },
+    {
+      "id": "gallery-f825y29",
+      "src": "/uploads/1781540270539-ctg6mrd9bcu.jpg",
+      "alt": "top-8-dia-diem-du-lich-ha-tinh",
+      "caption": "",
+      "visible": true
+    },
+    {
+      "id": "gallery-vpubouk",
+      "src": "/uploads/1781540278256-d1efryz1dqg.jpg",
+      "alt": "09aac1d1-5fa1-4e47-b52c-9a597058f430",
+      "caption": "Ngã 3 Đồng Lộc",
+      "visible": true
+    },
+    {
+      "id": "gallery-ybmxny3",
+      "src": "/uploads/1781540284036-p1tx69qy5q.jpg",
+      "alt": "nga-ba-dong-loc-ha-tinh-1",
+      "caption": "Ngã 3 Đồng Lộc",
+      "visible": true
+    },
+    {
+      "id": "gallery-uk1s07c",
+      "src": "/uploads/1781540288656-ti1ev1ns9vj.jpg",
+      "alt": "66-1664964645-309661856-438232904869980-4057836221270895807-n",
+      "caption": "Đồi chè xanh Hương Sơn",
+      "visible": true
+    }
+  ]
+}

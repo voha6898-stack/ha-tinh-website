@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "speed": "normal",
+  "bgColor": "amber",
+  "messages": [
+    {
+      "id": "t1",
+      "text": "🌊 Chào mừng đến với HÀ TĨNH — Vùng đất di sản ngàn năm!",
+      "visible": true
+    },
+    {
+      "id": "t2",
+      "text": "🏖️ Biển Thiên Cầm — Thiên đường nghỉ dưỡng mùa hè miền Trung",
+      "visible": true
+    },
+    {
+      "id": "t3",
+      "text": "🍬 Kẹo Cu Đơ — Đặc sản số 1 Hà Tĩnh, quà tặng ý nghĩa cho người thân",
+      "visible": true
+    },
+    {
+      "id": "t4",
+      "text": "📞 Đăng ký gian hàng quảng bá đặc sản & dịch vụ địa phương — Liên hệ ngay!",
+      "visible": true
+    },
+    {
+      "id": "t5",
+      "text": "🏛️ Khám phá 73+ di tích lịch sử quốc gia tại Hà Tĩnh",
+      "visible": true
+    },
+    {
+      "id": "t1781928990891",
+      "text": "Bạn hãy Flow kênh Hà Võ Review để biết đến những địa điểm du lịch, ẩm thực nổi tiếng tỉnh Hà Tĩnh nhé",
+      "visible": true
+    }
+  ]
+}

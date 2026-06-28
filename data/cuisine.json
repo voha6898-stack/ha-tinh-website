@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "id": "keo-cu-do",
+      "name": "Kẹo Cu Đơ",
+      "type": "Đặc sản số 1 Hà Tĩnh",
+      "description": "Bánh tráng giòn tẩm mật mía, phủ lạc rang vàng, thêm vị cay nồng của gừng tươi — 'vị ngọt mật mía, lạc bùi, gừng cay'. Sản phẩm OCOP 4 sao được công nhận toàn quốc. Ăn kèm trà xanh Hương Sơn là trải nghiệm chuẩn vị xứ Nghệ.",
+      "origin": "Phường Đại Nai, TP Hà Tĩnh (gần Cầu Phủ)",
+      "season": "Quanh năm",
+      "image": "/uploads/1781512557612-cxitbf1jksb.webp",
+      "badge": "OCOP ★★★★",
+      "badgeColor": "amber",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/keoCuDo-making-process/1200/800",
+        "https://picsum.photos/seed/keoCuDo-close-golden/1200/800",
+        "https://picsum.photos/seed/keoCuDo-packaged-gift/1200/800"
+      ],
+      "price": "20.000 – 80.000đ/gói · Hộp quà: 120.000–250.000đ",
+      "whereToEat": [
+        "Cơ sở Bà Hạnh – Phường Đại Nai, TP Hà Tĩnh (uy tín nhất)",
+        "Chợ trung tâm Hà Tĩnh – nhiều gian hàng",
+        "Siêu thị CoopMart Hà Tĩnh – khu đặc sản OCOP",
+        "Các cửa hàng tại ga Hà Tĩnh và bến xe"
+      ],
+      "ingredients": [
+        "Bánh tráng mè",
+        "Mật mía nguyên chất",
+        "Lạc rang vàng",
+        "Gừng tươi",
+        "Đường kính"
+      ],
+      "pairsWith": "Trà xanh Hương Sơn · Cà phê sữa đá · Trà đá chanh"
+    },
+    {
+      "id": "muc-nhay",
+      "name": "Mực Nhảy Vũng Áng",
+      "type": "Hải sản đặc sản theo mùa",
+      "description": "Mực tươi sống vừa được vớt lên còn nhảy trên đĩa — đặc sản hải sản hiếm có chỉ có từ tháng 2 đến tháng 7 âm lịch. Thưởng thức sống với mù tạt hoặc hấp gừng. Hút khách dịp lễ Tết — cần đặt trước!",
+      "origin": "Vũng Áng, Thị xã Kỳ Anh",
+      "season": "Tháng 2 – 7 âm lịch",
+      "image": "/uploads/1781512919105-bkcbozrrsl9.jpg",
+      "badge": "Đặc sản mùa",
+      "badgeColor": "sky",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/mucNhay-squid-plate-fresh/1200/800",
+        "https://picsum.photos/seed/mucNhay-fishing-port/1200/800",
+        "https://picsum.photos/seed/mucNhay-wasabi-dip/1200/800"
+      ],
+      "price": "200.000 – 400.000đ/kg (theo mùa · giá thị trường)",
+      "whereToEat": [
+        "Nhà hàng Hải Sản Bờ Biển Vũng Áng – ngay cảng cá",
+        "Chợ Vũng Áng – mua mực tươi sống tự chế biến",
+        "Nhà hàng Thiên Cầm – có nhập từ Vũng Áng về"
+      ],
+      "ingredients": [
+        "Mực tươi sống",
+        "Mù tạt wasabi",
+        "Chanh tươi",
+        "Gừng",
+        "Nước mắm Nhượng Bình"
+      ],
+      "pairsWith": "Bia Hà Nội · Rượu Hồng Lĩnh · Nước chanh muối"
+    },
+    {
+      "id": "sua-la-dung",
+      "name": "Sứa Lá Dung",
+      "type": "Di sản ẩm thực làng nghề",
+      "description": "Sứa biển trắng ngần kết hợp với lá dung hái tươi từ rừng — đặc sản gia truyền ngàn năm từ làng Kỳ Ninh (nay là phường Hải Ninh). Vị thanh mát, giòn sần sật, thơm hương lá rừng đặc trưng. Món ăn độc nhất vô nhị, không nơi nào ở Việt Nam có được.",
+      "origin": "Làng Kỳ Ninh, Phường Hải Ninh, TX Kỳ Anh",
+      "season": "Tháng 4 – 9",
+      "image": "/uploads/1781513038641-1vivl80wrk3.jpg",
+      "badge": "Di sản làng nghề",
+      "badgeColor": "green",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/suaLaDung-preparation/1200/800",
+        "https://picsum.photos/seed/suaLaDung-la-dung-leaf/1200/800",
+        "https://picsum.photos/seed/suaLaDung-final-dish/1200/800"
+      ],
+      "price": "50.000 – 80.000đ/suất",
+      "whereToEat": [
+        "Phường Hải Ninh, TX Kỳ Anh – các hàng ven đường địa phương",
+        "Chợ Kỳ Anh – có bán sứa tươi theo kg",
+        "Một số nhà hàng tại TP Hà Tĩnh theo đặt hàng trước"
+      ],
+      "ingredients": [
+        "Sứa biển tươi",
+        "Lá dung rừng",
+        "Ớt tươi",
+        "Tỏi",
+        "Nước mắm nhĩ",
+        "Giấm chua"
+      ],
+      "pairsWith": "Bánh tráng nướng · Cơm trắng · Bún tươi"
+    },
+    {
+      "id": "goi-ca-trich",
+      "name": "Gỏi Cá Trích",
+      "type": "Gỏi hải sản truyền thống",
+      "description": "Cá trích biển tươi ướp chanh sả ăn kèm bánh tráng cuốn rau thơm — đặc sản ven biển các huyện Lộc Hà, Nghi Xuân, Thạch Hà. Vinh danh trong Top 100 đặc sản Việt Nam bởi Hiệp hội Kỷ lục Việt Nam.",
+      "origin": "Lộc Hà, Nghi Xuân, Thạch Hà",
+      "season": "Quanh năm",
+      "image": "/uploads/1781513180456-ww4flm2oit.webp",
+      "badge": "Top 100 VN",
+      "badgeColor": "red",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/goiCaTrich-rolling-wrap/1200/800",
+        "https://picsum.photos/seed/goiCaTrich-herbs-fresh/1200/800",
+        "https://picsum.photos/seed/goiCaTrich-seaside-restaurant/1200/800"
+      ],
+      "price": "80.000 – 150.000đ/đĩa",
+      "whereToEat": [
+        "Các nhà hàng ven biển Lộc Hà – cá tươi nhất, giá tốt nhất",
+        "Nhà hàng Hải Sản Nghi Xuân – gần bãi Xuân Thành",
+        "Chợ Thạch Hà – mua cá tươi về tự làm"
+      ],
+      "ingredients": [
+        "Cá trích tươi",
+        "Chanh tươi",
+        "Sả lá",
+        "Ớt xanh",
+        "Tỏi",
+        "Rau thơm các loại",
+        "Bánh tráng mè"
+      ],
+      "pairsWith": "Nước chấm mắm nêm · Bia tươi · Rượu gạo trắng"
+    },
+    {
+      "id": "chao-canh",
+      "name": "Cháo Canh Hà Tĩnh",
+      "type": "Bữa sáng truyền thống quốc dân",
+      "description": "Cháo gạo nấu đặc với cá tươi hoặc thịt heo, thêm bánh canh bột lọc dai giòn — hành phi vàng, tiêu, rau mùi thơm lừng. Sáng sớm Hà Tĩnh, không thể thiếu tô cháo canh nóng hổi 20.000đ bên vỉa hè. Hương vị quen thuộc của người xa quê.",
+      "origin": "Toàn tỉnh Hà Tĩnh",
+      "season": "Quanh năm",
+      "image": "/uploads/1781513221543-w1yjmokd0s.jpg",
+      "badge": "Bữa sáng quốc dân",
+      "badgeColor": "amber",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/chaoCanhHaTinh-bowl-close/1200/800",
+        "https://picsum.photos/seed/chaoCanhHaTinh-morning-stall/1200/800",
+        "https://picsum.photos/seed/chaoCanhHaTinh-ingredients/1200/800"
+      ],
+      "price": "20.000 – 45.000đ/bát",
+      "whereToEat": [
+        "Quán Cháo Canh Cô Ba – 45 Phan Đình Phùng, TP Hà Tĩnh (uy tín nhất từ 1985)",
+        "Quán Cô Hoa – chợ Hà Tĩnh (mở từ 4:30 sáng)",
+        "Chợ Hà Tĩnh – nhiều hàng cháo canh giá dân dã",
+        "Phố Phan Đình Phùng – tập trung nhiều quán sáng"
+      ],
+      "ingredients": [
+        "Gạo tẻ",
+        "Cá tươi (hoặc thịt heo)",
+        "Bánh canh bột lọc",
+        "Hành phi",
+        "Tiêu đen",
+        "Rau mùi"
+      ],
+      "pairsWith": "Bánh mướt · Trứng chiên · Chả viên"
+    },
+    {
+      "id": "banh-muot",
+      "name": "Bánh Mướt",
+      "type": "Bánh cuốn đặc trưng Hà Tĩnh",
+      "description": "Bánh tráng mỏng như lụa tráng từ bột gạo ngon, cuốn chả viên chiên giòn, chan nước mắm chua ngọt đặc trưng. Đơn giản mà đậm thắm — món ăn sáng quen thuộc nhất của người Hà Tĩnh và cũng là ký ức không phai của người xa quê.",
+      "origin": "Toàn tỉnh Hà Tĩnh",
+      "season": "Quanh năm",
+      "image": "/uploads/1781513311153-ogcxdkp7arp.jpg",
+      "badge": "Vị quê hương",
+      "badgeColor": "purple",
+      "visible": true,
+      "gallery": [
+        "https://picsum.photos/seed/banhMuot-rolling-process/1200/800",
+        "https://picsum.photos/seed/banhMuot-cha-vien/1200/800",
+        "https://picsum.photos/seed/banhMuot-morning-breakfast/1200/800"
+      ],
+      "price": "20.000 – 40.000đ/suất",
+      "whereToEat": [
+        "Quán Cô Ba – TP Hà Tĩnh (bán kèm cháo canh từ 5:00 sáng)",
+        "Chợ Hà Tĩnh – nhiều gian hàng bánh mướt dân dã",
+        "Phố Trần Phú – tập trung quán ăn sáng truyền thống"
+      ],
+      "ingredients": [
+        "Bột gạo tẻ ngon",
+        "Chả thịt viên chiên",
+        "Nước mắm chua ngọt",
+        "Hành phi",
+        "Ớt tươi"
+      ],
+      "pairsWith": "Cháo canh · Trà xanh nóng · Cà phê đen"
+    }
+  ]
+}
